@@ -26,6 +26,7 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::List>.
 =cut
 
 __DATA__
+# names
 aberforth_dumbledore
 albert_runcorn
 aleeto_carrow
@@ -61,7 +62,7 @@ dragomir_despard
 dragon_handler
 drummer
 dudley_dursley
-dudley's_gang_member
+dudleys_gang_member
 durmstrang_student
 elphias_doge
 emmeline_vance
@@ -93,7 +94,7 @@ hufflepuff_girl
 hufflepuff_prefect
 igor_karkaroff
 james_potter
-justin_finch-fletchley
+justin_finch_fletchley
 katie_bell
 kingsley_shacklebolt
 kreacher
@@ -112,7 +113,7 @@ madam_malkin
 madam_pince
 madam_pomfrey
 madam_rosmerta
-mad-eye_moody
+mad_eye_moody
 mafalda_hopkirk
 marcus_belby
 marcus_flint
@@ -147,7 +148,7 @@ pius_thicknesse
 professor_binns
 professor_dumbledore
 professor_flitwick
-professor_grubbly-plank
+professor_grubbly_plank
 professor_lupin
 professor_mcgonagall
 professor_mcgonnagal
@@ -177,8 +178,8 @@ skeleton
 slytherin_boy
 slytherin_girl
 slytherin_prefect
-slytherin_twin_#1
-slytherin_twin_#2
+slytherin_twin_1
+slytherin_twin_2
 snatcher
 stan_shunpike
 station_guard
